@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @creus julien
+- 👀 I’m interested in ew technologies, development and networks
+- 🌱 I’m currently learning at Simplon to prepare a CDA (application developer designer).
